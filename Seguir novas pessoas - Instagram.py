@@ -17,7 +17,7 @@ time.sleep(25)
 x = 0
 cont = 0
  
-while x <= 152:
+while x <= 50:
 
     try:
         list= [
