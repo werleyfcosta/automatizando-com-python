@@ -21,7 +21,7 @@ y = 1
 z = 0
 tempo_all = 0 
 
-while x < 253:
+while x < 50:
     try:
         list= [
         '@nomes_usuario',
